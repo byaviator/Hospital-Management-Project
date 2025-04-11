@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\hospitalstats .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\hospitalstats .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp15\\consoleapp15\\personbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311E2F37-53B2-4597-9CDA-3381EB9A8242}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\personbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBContext .cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\DBContext .cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\DBContext .cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\DBContext .cs",
+              "RelativeToolTip": "ConsoleApp15\\DBContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:38:07.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HospitalStats .cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\HospitalStats .cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\HospitalStats .cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\HospitalStats .cs",
+              "RelativeToolTip": "ConsoleApp15\\HospitalStats .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:07:36.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\IPerson.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\IPerson.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\IPerson.cs",
+              "RelativeToolTip": "ConsoleApp15\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:04:03.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Appointment.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Appointment.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Appointment.cs",
+              "RelativeToolTip": "ConsoleApp15\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:00:13.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Department.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Department.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Department.cs",
+              "RelativeToolTip": "ConsoleApp15\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:58:09.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Gender.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Gender.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Gender.cs",
+              "RelativeToolTip": "ConsoleApp15\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:56:24.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonBase.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\PersonBase.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\PersonBase.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\PersonBase.cs",
+              "RelativeToolTip": "ConsoleApp15\\PersonBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:47:49.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Doctor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Doctor.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Doctor.cs",
+              "RelativeToolTip": "ConsoleApp15\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:47:25.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Patient.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Patient.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Patient.cs",
+              "RelativeToolTip": "ConsoleApp15\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:46:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp15\\ConsoleApp15\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp15\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:34:57.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
